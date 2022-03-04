@@ -199,7 +199,7 @@ public class Solution {
   
   void soln22() {
   // determine the hyponenause of a 9 by 7 right triangle, assign it to a double
-    return math.pow(9,2) + math.pow(7,2);
+    return math.pow(9,2.0) + math.pow(7,2.0);
   }
   
 }
